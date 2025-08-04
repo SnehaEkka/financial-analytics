@@ -2,15 +2,6 @@
 
 This project analyzes a panel of company financial data to assess organizational financial health using Altman's Z-score model. The workflow mirrors industry-standard risk analytics and statistical modeling procedures. Below is an overview of the methodology and key results, structured for maximum clarity and reproducibility for both academic and practical audiences.
 
-## Business Objective
-
-The primary objective of this exercise is to assess the financial risk of a large sample of companies for the year 2022 by calculating the Altman Z-Score, a well-known indicator of bankruptcy risk. Using comprehensive financial statement data from Compustat, the project aims to:
-- Identify companies in financial distress, the grey zone, and the safe zone based on their Z-Scores.
-- Explore the relationship between company size (measured by the log of total assets) and their financial risk.
-- Provide actionable insights on how company size influences financial health and bankruptcy risk.
-
-This analysis supports risk assessment and credit evaluation decisions by financial analysts, investors, and corporate managers.
-
 ## **Tools Used** 
 - Python (pandas, numpy, statsmodels)
 - WRDS Compustat data
