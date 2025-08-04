@@ -15,8 +15,6 @@ This project builds predictive models for the daily trading volume of Stock 1 (V
   - **DayOfWeek:** Categorical variable indicating the day of the week (Monday to Friday)
   - **Month:** Categorical variable indicating the month of the year
   - **Lagged Trading Volumes:** VolStock1(t-1), VolStock2(t-1), ..., VolStock6(t-1): Previous day's volumes for Stock 1 and 5 related stocks
-  
----
 
 ## Methodology & Analysis
 
