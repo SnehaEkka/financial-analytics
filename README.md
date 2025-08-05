@@ -12,10 +12,18 @@ With a passion for blending analytics and strategy, this series demonstrates an 
 | `02-stock-trading-volume-prediction` | Predictive Modeling & Markets     | Builds and evaluates regression models to forecast stock trading volumes using historical market data.      |
 | `03-predicting-asset-intensity`    | NLP & Financial Ratios           | Leverages BERT embeddings and machine learning to predict financial ratios, such as asset intensity, from business descriptions.|
 
-## 🔧 Tools Used
+## 🛠️ Key Skills Demonstrated
+- Financial ratios and bankruptcy risk analysis
+- Predictive regression modeling and market forecasting
+- Natural Language Processing with BERT for financial text
+- Data cleaning, exploratory analysis, and visualization
+- Integration of narrative and quantitative data for robust insights
 
-- Python (Pandas, NumPy, scikit-learn, transformers)
-- Jupyter Notebook for analysis, modeling, and visualization
+## 🔧 Tools Used
+- **Programming:** Python (Pandas, NumPy, scikit-learn, transformers, matplotlib, seaborn)
+- **NLP & Modeling:** HuggingFace transformers library, BERT/DistilBERT, logistic regression
+- **Analysis Environment:** Jupyter Notebook (exploratory analysis, modeling, documentation)
+- **Data Sources:** Custom CSV files, Compustat/WRDS datasets
 
 ## 💡 Why This Matters
 
